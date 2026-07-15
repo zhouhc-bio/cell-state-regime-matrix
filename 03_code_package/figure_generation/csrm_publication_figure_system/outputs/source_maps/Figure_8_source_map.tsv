@@ -1,0 +1,6 @@
+figure	panel	source_file	columns_used	row_count	aggregation	transformation	new_statistics_generated	notes
+Figure_8	a	Figure_8/regime_posterior_probabilities.tsv	sample_id,Fate_lock,Embryonic_module_score,P_Z_adult_repair,P_Z_embryonic_reactivation,P_Z_salamander_blastema,P_Z_salamander_intact	20247	deterministic thinning for display	dominant posterior assignment and normalized entropy from supplied posterior probabilities	NO	Entropy is display-only uncertainty transform
+Figure_8	b	Figure_8/observed_regime_to_latent_regime_composition.tsv	observed_regime_proxy,n_cells,mean_P_Z_adult_repair,mean_P_Z_embryonic_reactivation,mean_P_Z_salamander_blastema,mean_P_Z_salamander_intact	3	none	alluvial widths encode supplied mean posterior probabilities	NO	posterior mass allocation, not flow
+Figure_8	c	Figure_8/mixture_density_decomposition_phi.tsv	latent_regime,bin_center,weighted_component_density	396	none	single line-density view from supplied decomposition	NO	
+Figure_8	d	Figure_8/regime_posterior_probabilities.tsv	sample_id,P_Z_adult_repair,P_Z_embryonic_reactivation,P_Z_salamander_blastema,P_Z_salamander_intact	20247	head rows for matrix glyph	example posterior matrix object	NO	
+Figure_8	d	Figure_8/latent_regime_mixture_fit_summary.tsv	model,n_components,objective	1	none	fit statement displayed	NO	

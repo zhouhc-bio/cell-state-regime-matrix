@@ -1,0 +1,2 @@
+test	statistic	observed	p_value_two_sided	n_permutations	random_seed
+10,000 label permutations	mean(Phi_salamander_blastema) - mean(Phi_mammal)	-0.009351896955890188	0.585041495850415	10000	20260619

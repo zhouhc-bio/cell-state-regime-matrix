@@ -1,0 +1,17 @@
+regime_i	regime_j	symmetric_KL
+adult_repair	adult_repair	0.0
+adult_repair	embryonic_reactivation	4.763149244614617
+adult_repair	salamander_blastema	14.651337796829152
+adult_repair	salamander_intact	3.8490574748524384
+embryonic_reactivation	adult_repair	4.763149244614617
+embryonic_reactivation	embryonic_reactivation	0.0
+embryonic_reactivation	salamander_blastema	5.128000785493856
+embryonic_reactivation	salamander_intact	5.644255284087343
+salamander_blastema	adult_repair	14.651337796829152
+salamander_blastema	embryonic_reactivation	5.128000785493856
+salamander_blastema	salamander_blastema	0.0
+salamander_blastema	salamander_intact	4.3681046872372535
+salamander_intact	adult_repair	3.8490574748524384
+salamander_intact	embryonic_reactivation	5.644255284087343
+salamander_intact	salamander_blastema	4.3681046872372535
+salamander_intact	salamander_intact	0.0

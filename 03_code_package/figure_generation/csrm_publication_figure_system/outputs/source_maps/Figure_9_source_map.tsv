@@ -1,0 +1,4 @@
+figure	panel	source_file	columns_used	row_count	aggregation	transformation	new_statistics_generated	notes
+Figure_9	a,b,d	Figure_9/regime_overlap_matrix.tsv	regime_i,regime_j,bhattacharyya_overlap_proxy	16	pairwise matrix lookup	network edge width and matrix cells from supplied overlap values	NO	Fixed deterministic layout
+Figure_9	c,d	Figure_9/regime_KL_divergence_matrix.tsv	regime_i,regime_j,symmetric_KL	16	undirected pair deduplication for display	ranked lollipop and overlap-versus-KL scatter	NO	No new divergence computed
+Figure_9	source audit	Figure_9/regime_posterior_overlap_matrix.tsv	assigned_regime,posterior_regime,mean_posterior_probability	16	none	available but not plotted to avoid repeated heatmaps	NO	Used as source completeness check

@@ -1,0 +1,17 @@
+regime_i	regime_j	bhattacharyya_overlap_proxy
+adult_repair	adult_repair	1.0
+adult_repair	embryonic_reactivation	0.3268668954498952
+adult_repair	salamander_blastema	0.12991404465270812
+adult_repair	salamander_intact	0.5281357836070566
+embryonic_reactivation	adult_repair	0.3268668954498952
+embryonic_reactivation	embryonic_reactivation	1.0
+embryonic_reactivation	salamander_blastema	0.42330546944016845
+embryonic_reactivation	salamander_intact	0.40220032655585847
+salamander_blastema	adult_repair	0.12991404465270812
+salamander_blastema	embryonic_reactivation	0.42330546944016845
+salamander_blastema	salamander_blastema	1.0
+salamander_blastema	salamander_intact	0.3397288340040914
+salamander_intact	adult_repair	0.5281357836070566
+salamander_intact	embryonic_reactivation	0.40220032655585847
+salamander_intact	salamander_blastema	0.3397288340040914
+salamander_intact	salamander_intact	1.0

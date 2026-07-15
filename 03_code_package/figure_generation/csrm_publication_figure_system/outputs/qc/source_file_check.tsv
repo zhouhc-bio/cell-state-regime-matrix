@@ -1,0 +1,34 @@
+figure	panel	source_file	exists	new_statistics_generated
+Figure 1A	evidence gate	Figure_7/ks_test_results.tsv	YES	NO
+Figure 1A	evidence gate	Figure_7/permutation_test_results.tsv	YES	NO
+Figure 1A	evidence gate	Figure_7/bootstrap_confidence_intervals.tsv	YES	NO
+Figure 1	b	Figure_8/regime_posterior_probabilities.tsv	YES	NO
+Figure 1	c,d	Figure_8/regime_posterior_probabilities.tsv	YES	NO
+Figure 6	a	Figure_6/Figure_7_panel_a_source_data.tsv	YES	NO
+Figure 6	b	Figure_6/Figure_7_panel_b_source_data.tsv	YES	NO
+Figure 6	c	Figure_6/Figure_7_panel_c_source_data.tsv	YES	NO
+Figure 6	d	Figure_6/Figure_7_panel_d_source_data.tsv	YES	NO
+Figure 6	e	Figure_6/Figure_7_panel_e_source_data.tsv	YES	NO
+Figure 6	f	Figure_6/Figure_7_panel_f_source_data.tsv	YES	NO
+Figure 6	g	Figure_6/Figure_7_panel_g_source_data_v5.tsv	YES	NO
+Figure 6	h	Figure_6/Figure_7_panel_h_source_data.tsv	YES	NO
+Figure 7	a	Figure_7/Phi_unified.tsv	YES	NO
+Figure 7	b	Figure_7/roc_curve.tsv	YES	NO
+Figure 7	b,e	Figure_7/ks_test_results.tsv	YES	NO
+Figure 7	c,e	Figure_7/permutation_null_distribution.tsv	YES	NO
+Figure 7	c,e	Figure_7/permutation_test_results.tsv	YES	NO
+Figure 7	d,e	Figure_7/bootstrap_confidence_intervals.tsv	YES	NO
+Figure 8	a	Figure_8/regime_posterior_probabilities.tsv	YES	NO
+Figure 8	b	Figure_8/observed_regime_to_latent_regime_composition.tsv	YES	NO
+Figure 8	c	Figure_8/mixture_density_decomposition_phi.tsv	YES	NO
+Figure 8	d	Figure_8/regime_posterior_probabilities.tsv	YES	NO
+Figure 8	d	Figure_8/latent_regime_mixture_fit_summary.tsv	YES	NO
+Figure 9	a,b,d	Figure_9/regime_overlap_matrix.tsv	YES	NO
+Figure 9	c,d	Figure_9/regime_KL_divergence_matrix.tsv	YES	NO
+Figure 9	source audit	Figure_9/regime_posterior_overlap_matrix.tsv	YES	NO
+Supplementary Figure 1	a	Supplementary_Figure_1/closure_model_comparison.tsv	YES	NO
+Supplementary Figure 1	b,d	Supplementary_Figure_1/causal_closure_score_summary.tsv	YES	NO
+Supplementary Figure 1	c	Supplementary_Figure_1/regime_conditioned_deltaZ_consistency.tsv	YES	NO
+Supplementary Figure 1	d	Supplementary_Figure_1/null_perturbation_control_results.tsv	YES	NO
+Supplementary Figure 1	d	Supplementary_Figure_1/counterfactual_consistency_scores.tsv	YES	NO
+Supplementary Figure 1	e	Supplementary_Figure_1/regime_conditioned_grn_summary.tsv	YES	NO

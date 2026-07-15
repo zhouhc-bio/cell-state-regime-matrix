@@ -1,0 +1,21 @@
+{
+  "title": "Cell-State Regime Matrix support package",
+  "upload_type": "software",
+  "publication_date": "2026-07-15",
+  "creators": [
+    {
+      "name": "Zhou, H."
+    }
+  ],
+  "description": "Source-data tables and analysis code for the Cell-State Regime Matrix framework.",
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "cell-state regime matrix",
+    "regeneration",
+    "plasticity",
+    "single-cell analysis",
+    "source data"
+  ],
+  "version": "1.0.0"
+}

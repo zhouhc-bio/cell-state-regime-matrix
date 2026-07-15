@@ -1,0 +1,5 @@
+metric	actual	expected	tolerance	pass	note
+auc	0.4797928489042676	0.479793	1e-06	YES	Figure 7 AUC locked value
+permutation_p	0.585041495850415	0.585041	1e-06	YES	Figure 7 permutation p locked value
+observed_mean_difference	-0.0093518969558901	-0.009352	1e-06	YES	Figure 7 observed mean difference
+mean_difference_ci_crosses_zero	True	True	NA	YES	Figure 7 bootstrap mean-difference CI crosses zero

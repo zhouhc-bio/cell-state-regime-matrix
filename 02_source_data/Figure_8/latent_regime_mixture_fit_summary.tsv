@@ -1,0 +1,2 @@
+model	n_components	log_likelihood	iterations	run	KL_empirical_phi_vs_mixture_phi	mutual_information_I_S_Z_proxy	objective
+diagonal_gaussian_latent_regime_mixture	4	-103592.013772729	55	5	1.0990802203873696e-06	0.8084382043871299	likelihood + distributional alignment + regime information; no AUC objective

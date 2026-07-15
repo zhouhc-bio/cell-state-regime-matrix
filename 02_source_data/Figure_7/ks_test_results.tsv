@@ -1,0 +1,2 @@
+n_mammal	n_salamander_blastema	ks_statistic	ks_p_value	wasserstein_distance	observed_mean_difference_salamander_minus_mammal	permutation_p_value_two_sided	auc	acceptance_p_lt_0_05	acceptance_auc_gt_0_75
+15000.0	4335.0	0.08282791234140718	1.5010923835448756e-20	0.14645604400506326	-0.009351896955890188	0.585041495850415	0.4797928489042676	0.0	0.0

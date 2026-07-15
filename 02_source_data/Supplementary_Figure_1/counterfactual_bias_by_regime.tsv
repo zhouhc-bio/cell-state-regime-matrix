@@ -1,0 +1,25 @@
+level	latent_regime	pathway	systematic_bias_mean	systematic_bias_sd	mean_abs_bias	bias_symmetry_score	direction_reversal_frequency	n_pathways	status
+regime_summary	adult_repair	ALL_PATHWAYS	-0.06747422724090348	0.06343874377516444	0.06872623311081888	0.0182172921931657	0.6	5	computed
+regime_summary	embryonic_reactivation	ALL_PATHWAYS	0.12724805420227095	0.05246914905912324	0.12724805420227095	0.0	0.8	5	computed
+regime_summary	salamander_blastema	ALL_PATHWAYS	0.0080125296635855	0.01990288678372679	0.020682167721152698	0.6125875308809782	0.6	5	computed
+regime_summary	salamander_intact	ALL_PATHWAYS	-0.06778635662495264	0.028552707472087904	0.06778635662495264	0.0	0.8	5	computed
+pathway_regime	adult_repair	RA	-0.1087287026422979		0.1087287026422979		1.0	1	computed
+pathway_regime	embryonic_reactivation	RA	0.1493660226776644		0.1493660226776644		1.0	1	computed
+pathway_regime	salamander_blastema	RA	0.0208536444113781		0.0208536444113781		1.0	1	computed
+pathway_regime	salamander_intact	RA	-0.0614909644467444		0.0614909644467444		1.0	1	computed
+pathway_regime	adult_repair	BMP	-0.061916265660377		0.061916265660377		1.0	1	computed
+pathway_regime	embryonic_reactivation	BMP	0.1283979900679633		0.1283979900679633		1.0	1	computed
+pathway_regime	salamander_blastema	BMP	0.017312691044300398		0.017312691044300398		0.0	1	computed
+pathway_regime	salamander_intact	BMP	-0.0837944154518864		0.0837944154518864		1.0	1	computed
+pathway_regime	adult_repair	NOTCH	-0.0049427343021167		0.0049427343021167		0.0	1	computed
+pathway_regime	embryonic_reactivation	NOTCH	0.0583992578158231		0.0583992578158231		1.0	1	computed
+pathway_regime	salamander_blastema	NOTCH	-0.031674095143918		0.031674095143918		1.0	1	computed
+pathway_regime	salamander_intact	NOTCH	-0.021782428369788		0.021782428369788		1.0	1	computed
+pathway_regime	adult_repair	FGF	-0.1649134482745143		0.1649134482745143		1.0	1	computed
+pathway_regime	embryonic_reactivation	FGF	0.21125763738516		0.21125763738516		1.0	1	computed
+pathway_regime	salamander_blastema	FGF	0.0171656400756306		0.0171656400756306		1.0	1	computed
+pathway_regime	salamander_intact	FGF	-0.063509829186276		0.063509829186276		1.0	1	computed
+pathway_regime	adult_repair	SHH	0.0031300146747884963		0.0031300146747884963		0.0	1	computed
+pathway_regime	embryonic_reactivation	SHH	0.08881936306474389		0.08881936306474389		0.0	1	computed
+pathway_regime	salamander_blastema	SHH	0.016404767930536402		0.016404767930536402		0.0	1	computed
+pathway_regime	salamander_intact	SHH	-0.1083541456700684		0.1083541456700684		0.0	1	computed

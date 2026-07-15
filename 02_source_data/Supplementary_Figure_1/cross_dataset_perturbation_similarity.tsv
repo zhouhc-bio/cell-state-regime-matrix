@@ -1,0 +1,6 @@
+pathway	dataset_i	dataset_j	cosine_similarity_deltaZ	status
+RA	GSE216800			not_computable_single_dataset_only
+BMP	GSE216800			not_computable_single_dataset_only
+NOTCH	GSE216800			not_computable_single_dataset_only
+FGF	GSE216800			not_computable_single_dataset_only
+SHH	GSE216800			not_computable_single_dataset_only

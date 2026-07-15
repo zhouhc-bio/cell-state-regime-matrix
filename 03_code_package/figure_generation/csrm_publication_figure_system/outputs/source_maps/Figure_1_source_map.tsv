@@ -1,0 +1,3 @@
+figure	panel	source_file	columns_used	row_count	aggregation	transformation	new_statistics_generated	notes
+Figure_1	b	Figure_8/regime_posterior_probabilities.tsv	sample_id,Fate_lock,Embryonic_module_score,P_Z_adult_repair,P_Z_embryonic_reactivation,P_Z_salamander_blastema,P_Z_salamander_intact	20247	deterministic thinning for display	dominant posterior assignment used for color	NO	No new statistics
+Figure_1	c,d	Figure_8/regime_posterior_probabilities.tsv	sample_id,P_Z_adult_repair,P_Z_embryonic_reactivation,P_Z_salamander_blastema,P_Z_salamander_intact	20247	top two cells per dominant posterior regime	transparent row selection for example matrix	NO	Rows are observed examples

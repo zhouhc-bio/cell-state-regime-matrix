@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this support package, please cite the archived release."
+title: "Cell-State Regime Matrix support package"
+type: software
+authors:
+  - family-names: "Zhou"
+    given-names: "H."
+repository-code: "https://github.com/zhouhc-bio/cell-state-regime-matrix"
+abstract: "Source-data tables and analysis code for the Cell-State Regime Matrix framework."
+keywords:
+  - cell-state regime matrix
+  - regeneration
+  - plasticity
+  - single-cell analysis
+  - source data
+license: "MIT"
+date-released: "2026-07-15"
+version: "1.0.0"

@@ -1,0 +1,4 @@
+figure	panel	source_file	columns_used	row_count	aggregation	transformation	new_statistics_generated	notes
+Figure_1A	evidence gate	Figure_7/ks_test_results.tsv	auc,ks_p_value	1	none	locked values displayed	NO	AUC and KS interpretation
+Figure_1A	evidence gate	Figure_7/permutation_test_results.tsv	p_value_two_sided,observed	1	none	locked values displayed	NO	Permutation p-value
+Figure_1A	evidence gate	Figure_7/bootstrap_confidence_intervals.tsv	metric,ci_lower_2p5,ci_upper_97p5	3	filter mean_difference	locked CI crossing zero displayed	NO	No new interval computed

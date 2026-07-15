@@ -1,0 +1,9 @@
+figure	panel	source_file	columns_used	row_count	aggregation	transformation	new_statistics_generated	notes
+Figure_6	a	Figure_6/Figure_7_panel_a_source_data.tsv	embedding_1,embedding_2,tumor_plasticity_proxy_score	3943	none	embedding scatter colored by supplied tumor-like proxy	NO	
+Figure_6	b	Figure_6/Figure_7_panel_b_source_data.tsv	embedding_1,embedding_2,stemness_score	3943	none	embedding scatter colored by supplied stemness score	NO	
+Figure_6	c	Figure_6/Figure_7_panel_c_source_data.tsv	embedding_1,embedding_2,differentiation_score	3943	none	embedding scatter colored by supplied differentiation score	NO	
+Figure_6	d	Figure_6/Figure_7_panel_d_source_data.tsv	embedding_1,embedding_2,local_self_retention	3943	none	embedding scatter colored by supplied local retention	NO	
+Figure_6	e	Figure_6/Figure_7_panel_e_source_data.tsv	tumor_like_quartile,stemness_score	3943	grouped display	box and strip plot; no new hypothesis tests	NO	
+Figure_6	f	Figure_6/Figure_7_panel_f_source_data.tsv	tumor_like_quartile,differentiation_score	3943	grouped display	box and strip plot; no new hypothesis tests	NO	
+Figure_6	g	Figure_6/Figure_7_panel_g_source_data_v5.tsv	tumor_like_group,boundary_score,score	3750	grouped display	boxplot from supplied boundary-score rows	NO	
+Figure_6	h	Figure_6/Figure_7_panel_h_source_data.tsv	tumor_like_quartile,tumor_plasticity_proxy_score,stemness_score,differentiation_score,embryonic_like_score,inflammatory_regeneration_score,local_self_retention	2	none	module mean heatmap from supplied values	NO	
